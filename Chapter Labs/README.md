@@ -15,13 +15,19 @@ steps, and results, along with any troubleshooting notes and key takeaways.
 | Detail | Status |
 | --- | --- |
 | Course | Cisco CCNA 200-301 (Neil Anderson) |
-| Labs completed | 0 |
+| Labs completed | 1 |
 | Current focus | Preparing to begin chapter-based labs |
 
 ---
 
 ## 🧪 Labs
 
-No labs added yet.
+### 📍 Chapter 12: Life of a Packet
+
+October 18, 2026
+
+#### Objective
+
+Configure DNS client on routers and ARP cache.
 
 ---
